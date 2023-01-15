@@ -1,4 +1,7 @@
-# Repository of the project challenge about git/github DIO
+# Project challenge about git/github DIO
 
-# dio-challenge-first-repository
-Dio challenge first respository
+Repository create to project challenge.
+
+## Util links
+
+[Basic syntax](https://www.markdownguide.org/basic-syntax/)
